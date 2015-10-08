@@ -1,3 +1,10 @@
 The Matrix
 Gladiator
 django
+Star Wars Phantom of Menace
+Star Wars Clone Wars
+Star Wars Revenge of the Sith
+Star Wars New Hope
+Star Wars Empire Strikes Back
+Star Wars Return of the Jedi
+Star Wars The Force Awakens
